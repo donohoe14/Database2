@@ -30,7 +30,7 @@
 
 <div id="message">
 
-<p>You are logged in.</p>
+<p>You are logged in Paul.</p>
 
 <p><%= request.getAttribute("email") %></p>
 
